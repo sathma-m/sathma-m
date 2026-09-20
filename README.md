@@ -45,4 +45,4 @@ and improving software quality.
 
 ## 🤝 Connect With Me
 
-💼 LinkedIn: www.linkedin.com/in/sathma-mansahani-98812b29
+💼 LinkedIn: www.linkedin.com/in/sathma-mansahani-98812b296
