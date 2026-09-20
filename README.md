@@ -1,9 +1,9 @@
 # Hi, I'm Sathma Mansahani 👋
 
-🎓 ICT Undergraduate at the University of Colombo  
-🧪 Interested in Software Quality Assurance and Networking  
-💻 Exploring Software Development, Testing, and Network Technologies  
-🌱 Currently learning API Testing, Selenium and Networking
+🎓 ICT Undergraduate at the University of Colombo
+🧪 Interested in Software Quality Assurance and Networking
+💻 Exploring Web Development, Software Testing, and Network Technologies
+🌱 Currently learning API Testing, Test Automation, and Networking
 
 ## 👩‍💻 About Me
 
